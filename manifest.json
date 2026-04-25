@@ -1,0 +1,15 @@
+{
+  "name": "BROlndr",
+  "short_name": "BROlndr",
+  "description": "Твой личный трекер",
+  "start_url": "/Brolendar/",
+  "scope": "/Brolendar/",
+  "display": "standalone",
+  "background_color": "#f7f5f2",
+  "theme_color": "#f7f5f2",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "icon.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
